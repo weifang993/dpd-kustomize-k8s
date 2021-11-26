@@ -8,7 +8,7 @@ https://github.com/argoproj/argocd-example-apps/tree/master/kustomize-guestbook
 
 The yaml files are adapted from https://github.com/weifang993/dpd-kustomize
 
-# Create a Kustomize app (argcd app create --help)
+### Create a Kustomize app (argcd app create --help) ###
 
 `kubectl create ns dpd`
 
